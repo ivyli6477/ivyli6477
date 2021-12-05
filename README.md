@@ -1,12 +1,9 @@
-### Hi there 👋
-
-
 ![Header](https://github.com/ivyli6477/ivyli6477/blob/main/header.png "Header")
 
+## Hi!👋🤓
 
-
-<!--
-**ivyli6477/ivyli6477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ivy
+a coder, creator & learner
 
 Here are some ideas to get you started:
 
