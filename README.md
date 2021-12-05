@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Header](https://github.com/ivyli6477/ivyli6477/blob/main/header.png "Header")]
+![Header](https://github.com/ivyli6477/ivyli6477/blob/main/header.png "Header")
 
 
 
