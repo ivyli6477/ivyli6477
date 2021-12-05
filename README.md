@@ -1,20 +1,12 @@
-<p align="center">
 ![Header](https://github.com/ivyli6477/ivyli6477/blob/main/header.png "Header")
-  ## Hi!👋🤓
-</p>
+## Hi!👋🤓
 
+<center> ## Hi!👋🤓 </center>
 
+## I am Ivy
+## a coder, creator & learner
 
-I am Ivy
-a coder, creator & learner
-
-
-#- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning how to make pretty visualizations
+#### Lets connect!
+* ivyli6477@gmail.com
+* https://www.linkedin.com/in/xinranivyli/
